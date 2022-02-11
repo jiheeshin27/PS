@@ -6,4 +6,4 @@ LeetCode 문제풀이
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](../Linear Array/TwoSum.py)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python]("Linear Array"/TwoSum.py)|Easy|
